@@ -108,9 +108,9 @@
     "styled-components": "^5"
   },
   "engines": {
-    "node": "16.15.1"
+    "node": "18.x"
   },
   "volta": {
-    "node": "16.15.1"
+    "node": "18.x"
   }
 }
